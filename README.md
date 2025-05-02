@@ -49,7 +49,7 @@
     .heart {
       color: #5b32a8;
       font-size: 2rem;
-      margin-bottom: 20px;
+      margin-bottom: 40px;
       animation: pulse 2s infinite;
       display: inline-block;
     }
