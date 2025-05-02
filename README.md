@@ -1,4 +1,4 @@
-<!stupid love story🫀>
+<stupid love story🫀>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
