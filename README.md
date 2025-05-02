@@ -7,8 +7,8 @@
   <style>
     body {
       background: linear-gradient(135deg, #ffd6d6, #fff0f0);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #611a1a;
+      font-family: 'Segoe UI',
+      color: #5b32a8;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -19,7 +19,7 @@
     }
 
     .container {
-      background: white;
+      background: purple;
       border-radius: 15px;
       box-shadow: 0 8px 20px rgba(198, 83, 83, 0.3);
       max-width: 600px;
@@ -43,11 +43,11 @@
       font-style: italic;
       font-weight: 600;
       font-size: 1.1rem;
-      color: #a83232;
+      color: #5b32a8;
     }
 
     .heart {
-      color: #e63946;
+      color: #5b32a8;
       font-size: 2rem;
       margin-bottom: 20px;
       animation: pulse 2s infinite;
@@ -88,4 +88,3 @@
   </div>
 </body>
 </html>
->
