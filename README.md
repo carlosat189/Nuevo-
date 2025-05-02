@@ -50,7 +50,7 @@
       color: #5b32a8;
       font-size: 2rem;
       margin-bottom: 20px;
-      animation: pulse 5s infinite;
+      animation: pulse 2s infinite;
       display: inline-block;
     }
 
