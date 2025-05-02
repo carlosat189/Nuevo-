@@ -81,7 +81,7 @@
     <p>
       recuerda que eres muy importante para mi ,<br/>
       sólo sé que te amo con todo mi corazón.<br/>
-      y seras una exelente maquillosta ,<br/>
+      y seras una exelente maquillista ,<br/>
       te amo 
     </p>
     <p class="signature">Con todo mi amor,<br/>Tu todo tonto</p>
